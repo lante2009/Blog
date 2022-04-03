@@ -1,0 +1,76 @@
+navbar_entries:
+  - title: 首页
+    url: https://lante0903.top
+
+  - title: 博客
+    url: Blog
+
+  - title: 音乐站(电脑版)
+    url: https://lante0903.top/Music/#/discovery
+
+project_entries:
+
+
+old_project_entries:
+  - title: 今天直飞潮白大桥,疫情封小区,路上的车很少
+    url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092ee6e6318400b3037aac7b8e_b
+    desc: 拍摄设备:DJI Mavic Air2  剪辑软件：Final Cut Pro X 2022-3-30 20:33:26
+    
+  - title: GitHub如何克隆仓库？
+    url: 
+    desc: GitHub桌面版怎么克隆仓库？ 2022-3-25 18:33:49
+    
+  - title: 今天的雪景才是最好看的
+    url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092ed53f9b68e12892c5c5d0f6_b
+    desc: 昨天刚刚下雪，今天的雪景比昨天的好看 2022-3-19 19:53:56
+
+  - title: 河北下雪了
+    url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092eaae123273886ed2c3825e6_b
+    desc: 今天是今年冬天最后一场雪了，非常大；冒着大雪去外面拍摄，无人机差点回不来 2022-3-18 19:42:13
+
+footer_entries:
+  - title: 
+    url: 
+
+  - title: 
+    url: 
+    
+  - title: 
+    url: 
+
+  - title: 
+    url: 
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
