@@ -2,7 +2,7 @@ navbar_entries:
   - title: 首页
     url: https://lante0903.top
 
-  - title: 博客
+  - title: 日常
     url: Blog
 
   - title: 音乐站(电脑版)
@@ -12,13 +12,14 @@ project_entries:
 
 
 old_project_entries:
+
+  - title: 大疆御3 HDR
+    url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092e61c2a6146cbba63ce86e94_b
+    desc: 找朋友借了个大疆御3拍了个视频，御3哈苏HDR拍出来的视频完全不需要后期 2022-4-5 22:12:49
+  
   - title: 今天直飞潮白大桥,疫情封小区,路上的车很少
     url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092ee6e6318400b3037aac7b8e_b
     desc: 拍摄设备:DJI Mavic Air2  剪辑软件：Final Cut Pro X 2022-3-30 20:33:26
-    
-  - title: GitHub如何克隆仓库？
-    url: 
-    desc: GitHub桌面版怎么克隆仓库？ 2022-3-25 18:33:49
     
   - title: 今天的雪景才是最好看的
     url: https://share.plvideo.cn/front/video/preview?vid=bc32c5092ed53f9b68e12892c5c5d0f6_b
