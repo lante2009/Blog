@@ -5,6 +5,9 @@ navbar_entries:
   - title: 日常
     url: Blog
 
+  - title: 航拍
+    url: DJI
+    
   - title: 音乐站(电脑版)
     url: https://lante0903.top/Music/#/discovery
 
